@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files...
+!/.gitignore
+
+!home.nix
+
+!README.md
+!CONTRIBUTING.md
+!CHANGELOG.md
+!LICENSE
+
+# !Makefile
+
+# ...even if they are in subdirectories
+!*/
